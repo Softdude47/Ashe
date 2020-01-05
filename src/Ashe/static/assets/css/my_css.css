@@ -1,0 +1,112 @@
+.input[type="submit"]{
+    background-color:black;
+    color:white;
+    padding: 40px;
+}
+
+.boxers{
+	width: 80%;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px;
+	border: 1px dotted black;
+	box-sizing: border-box;
+}
+
+.categories{
+	margin-left: 9%;
+}
+.categories a{
+	color: blue;
+}
+.categories a:hover{
+	color: red;
+}
+.categories a:active{
+	color: red;
+}
+.categories a:visited{
+	color: red;
+}
+
+h1{
+	color: black;
+}
+
+.footer-class{
+	background-color: black;
+	color: white;
+	font-style: italic;
+	text-align: center;
+	border-top: 20px;
+}
+
+.header-class{
+	background-color: gray;
+}
+
+.header-class ul{
+	list-style-type: none;
+	padding: 0;
+	border-bottom: 50px;
+}
+
+.header-class li{
+	text-align: center;
+	display: inline;
+}
+
+.header-class a{
+	color: white;
+	padding-right: 15px;
+}
+
+.header-class a:hover{
+	color: red;
+}
+
+.header-class a:visited{
+	color: red;
+}
+
+.header-class nav{
+	padding-left: 35px;
+	padding-top: auto;
+}
+
+#username-display{
+	background-color: coral;
+	
+}
+
+
+#username-display ul{
+	list-style: none;
+}
+
+#username-display li{
+	color: white;
+	text-align: center;
+	font-size: xx-large;
+}
+
+/*#Profile_Picture{
+
+}*/
+
+.comments{
+	border: 1px dotted black;
+}
+
+.comments p{
+	padding: center;
+	font-family: sans-serif;
+	width: 40%;
+	margin: auto;
+}
+
+.comments h3{
+	float: left;
+	font-weight: bold;
+}
